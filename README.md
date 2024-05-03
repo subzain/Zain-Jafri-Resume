@@ -1,4 +1,6 @@
 <header>
+    <link rel="stylesheet" href="style.css">
+
     <h1>Zain Jafri</h1>
     <p>(832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX</p>
     <p>Objective: I am dedicated to applying theoretical knowledge and practical skills in a technical position with a passion and focus on computer programming. Committed to learning, contributing, and prioritizing performance and reliability in every task.</p>
