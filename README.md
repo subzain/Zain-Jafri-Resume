@@ -32,7 +32,7 @@ Adhered to company safety protocols and guidelines while operating machinery in 
 Maintained a clean and organized work environment to prevent accidents.
 </main>
 
-<section> <h1>Professional Development</h1>
+<section> <h4>Professional Development</h4>
 
 
 Bachelor of Science in Computer Engineering, University of Texas at San Antonio 	
