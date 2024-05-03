@@ -37,7 +37,7 @@ Maintained a clean and organized work environment to prevent accidents.
 
 Bachelor of Science in Computer Engineering, University of Texas at San Antonio 	
 
-<h2>Educational Courses and Training:<h2>
+<h4>Educational Courses and Training:<h4>
 Enrolled for Onshape drafting courses 
 Intro to Electrical and Computer Engineering.
 Kano computer training kit.
