@@ -25,9 +25,11 @@ Troubleshooted defective mats by recutting mats into different inventory stocks 
 Product Preparation and Packaging:
 Rolled chair mats and boxed them with staples.
 Added shipping labels for UPS mailing packages.</h5>
+
 <h4>Customer Service:<h4>
 </h5>Interacted with customers by providing guidance regarding their work orders.
-<h4>Safety Compliance:<h4>
+
+  <h4>Safety Compliance:<h4>
 Adhered to company safety protocols and guidelines while operating machinery in a safe manner to avoid any potential incidents/near misses.
 Maintained a clean and organized work environment to prevent accidents.</h5>
 </main>
@@ -38,6 +40,7 @@ Maintained a clean and organized work environment to prevent accidents.</h5>
 Bachelor of Science in Computer Engineering, University of Texas at San Antonio 	
 
 <h4>Educational Courses and Training:<h4>
+  
 Enrolled for Onshape drafting courses 
 Intro to Electrical and Computer Engineering.
 Kano computer training kit.
