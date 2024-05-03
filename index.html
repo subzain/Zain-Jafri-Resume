@@ -8,7 +8,9 @@
   <title>Zain Jafri's Resume</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+  <script src="script.js"></script>
 </head>
+
 
 <body>
 
@@ -27,7 +29,7 @@
         <h2>Work Experience</h2>
         <div class="accordion">
           <div class="accordion-item">
-            <button class="accordion-button">Warehouse Associate, Custom Mat Company (Houston, TX. 01/2024 - 03/2024)</button>
+            <button class="accordion-button" data-modal-index="0">Warehouse Associate, Custom Mat Company (Houston, TX. 01/2024 - 03/2024)</button>
             <div class="accordion-content">
               <p>Tracked and monitored mats inventory levels for raw materials and finished products, and replenished stock as needed.</p>
               <p>Accessed inventory management tool to review inventories for stock and non-stock items.</p>
@@ -80,8 +82,13 @@
     </div>
   </footer>
 
-  <script src="script.js"></script>
-
 </body>
 
 </html>
+
+**Changes Made:**
+
+1. Added `data-modal-index` attribute to the accordion buttons for work experience and (optionally) educational courses. Set the value to the corresponding modal index (starting from 0) for each project.
+2. Remember to add more accordion items within the sections and modals in the `modal-container` section as needed for your projects.
+
+**Make sure your `script.js` file** includes the `openModal` function as described previously to handle opening modals based on the index.
