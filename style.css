@@ -50,6 +50,14 @@ section {
     margin-bottom: 40px;
 }
 
+.job h3 {
+    margin-bottom: 10px;
+}
+
+.job-description h4 {
+    margin-top: 20px;
+}
+
 footer {
     background-color: #343a40;
     color: #fff;
