@@ -14,7 +14,7 @@ Objective: I am dedicated to applying theoretical knowledge and practical skills
 <h4>Inventory Management:<h4>
   
 <h5>Tracked and monitored mats inventory levels for raw materials and finished products, and replenished stock as needed.
-Access inventory management tool to review inventories for stock and non-stock items.</h5>
+Access inventory management tool to review inventories for stock and non-stock items.<h5>
 
 <h4>Machine Operation:<h4>
   
@@ -47,10 +47,10 @@ Bachelor of Science in Computer Engineering, University of Texas at San Antonio
 
 <h4>Educational Courses and Training:<h4>
   
-Enrolled for Onshape drafting courses 
+</h5>Enrolled for Onshape drafting courses 
 Intro to Electrical and Computer Engineering.
 Kano computer training kit.
-Udemy Online training for software coding.
+Udemy Online training for software coding.</h5>
 
 
 </section>
