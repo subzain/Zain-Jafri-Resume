@@ -1,3 +1,12 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zain Jafri's Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Additional CSS files or stylesheets can be linked here -->
+</head>
+
+
 <header>
     <h1>Zain Jafri</h1>
     <p>(832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX</p>
