@@ -1,5 +1,3 @@
-# Zain-Jafri-Resume
-
 <header>
     <h1>Zain Jafri</h1>
     <p>(832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX</p>
