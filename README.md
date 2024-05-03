@@ -13,7 +13,7 @@ Objective: I am dedicated to applying theoretical knowledge and practical skills
 
 <h4>Inventory Management:<h4>
   
-<h5>Tracked and monitored mats inventory levels for raw materials and finished products, and replenished stock as needed.
+</h5>Tracked and monitored mats inventory levels for raw materials and finished products, and replenished stock as needed.
 Access inventory management tool to review inventories for stock and non-stock items.<h5>
 
 <h4>Machine Operation:<h4>
