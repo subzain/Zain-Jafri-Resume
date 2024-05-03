@@ -2,38 +2,40 @@ const accordionButtons = document.querySelectorAll(".accordion-button");
 const modals = document.querySelectorAll(".modal");
 const modalCloseButtons = document.querySelectorAll(".modal-close");
 
+// Toggle accordion content and button styles
+function toggleAccordion(button, content) {
+  content.classList.toggle("active");
+  button.classList.toggle("active", !content.classList.contains("active"));
+}
+
 // Accordion functionality
 accordionButtons.forEach(button => {
   button.addEventListener("click", () => {
     const content = button.nextElementSibling;
-    const isExpanded = content.classList.contains("active"); // Check if already active
+    toggleAccordion(button, content);
 
-    // Close all other accordions before opening the clicked one
+    // Close all other accordions
     accordionButtons.forEach(otherButton => {
       if (otherButton !== button) {
-        otherButton.nextElementSibling.classList.remove("active");
-        otherButton.classList.remove("active");
+        toggleAccordion(otherButton, otherButton.nextElementSibling);
       }
     });
-
-    content.classList.toggle("active");
-    button.classList.toggle("active", !isExpanded); // Toggle active class on button only if not already expanded
   });
 });
 
-// Modal functionality
+// Hide modals initially
 modals.forEach(modal => {
-  modal.style.display = "none"; // Hide modals initially
+  modal.style.display = "none";
 });
 
+// Close modals on button click
 modalCloseButtons.forEach(button => {
   button.addEventListener("click", () => {
-    const modal = button.parentElement.parentElement;
-    modal.style.display = "none";
+    button.parentElement.parentElement.style.display = "none";
   });
 });
 
-// Function to open a specific modal by its index (optional for project modals)
+// Open a specific modal by its index
 function openModal(index) {
   if (index >= 0 && index < modals.length) {
     modals[index].style.display = "block";
@@ -49,4 +51,3 @@ projectTitles.forEach(title => {
     openModal(modalIndex);
   });
 });
-
