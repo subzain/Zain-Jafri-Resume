@@ -1,6 +1,5 @@
 # Zain-Jafri-Resume
-Zain Jafri Resume
-index.html
+
 <header>Zain Jafri
 (832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX 
 Objective: I am dedicated to applying theoretical knowledge and practical skills in a technical position with a passion and focus in computer programming. Committed to learning, contributing, and prioritizing performance and reliability in every task.
