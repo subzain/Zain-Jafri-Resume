@@ -1,63 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zain Jafri - Resume</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-<body>
-  <header>
+<header>
     <h1>Zain Jafri</h1>
     <p>(832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX</p>
+    <p>Objective: I am dedicated to applying theoretical knowledge and practical skills in a technical position with a passion and focus on computer programming. Committed to learning, contributing, and prioritizing performance and reliability in every task.</p>
   </header>
-  <main>
-    <h2>Work Experience</h2>
-    <ul class="work-experience-list">
-      <li>
-        <h4>Warehouse Associate, Custom Mat Company, Houston, TX (01/2024 - 03/2024)</h4>
-        <ul>
-          <li>
-            <span class="fa-icon">&#xf0d7;</span> Inventory Management: Tracked and monitored mats inventory...
-          </li>
-          </ul>
-      </li>
-      </ul>
-  </main>
-  <section class="professional-development">
-    <h2>Professional Development</h2>
-    <p>Bachelor of Science in Computer Engineering, University of Texas at San Antonio</p>
-    <h3>Educational Courses and Training</h3>
-    <ul>
-      <li>Intro to Electrical and Computer Engineering</li>
-      <li>Enrolled for Onshape drafting courses</li>
-      </ul>
-  </section>
-  <script src="script.js"></script> </body>
-</html>
-h1, h2, h3 {
-  margin-bottom: 1rem;
-}
 
-.work-experience, .professional-development {
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
-}
 
-.work-experience-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 
-.work-experience-list li {
-  margin-bottom: 0.5rem;
-}
 
-.fa-icon {
-  font-size: 1.2rem;
-  margin-right: 0.5rem;
-  color: #333; /* Adjust icon color as needed */
-}
+<main> <h1>Work Experience</h1>
+
+
+<h2>Warehouse Associate, Custom Mat Company, Houston, TX.	 01/2024 - 03/2024</h2>
+
+
+<h4>Inventory Management:<h4>
+</h5>Tracked and monitored mats inventory levels for raw materials and finished products, and replenished stock as needed.
+Access inventory management tool to review inventories for stock and non-stock items.<h5>
+
+
+<h4>Machine Operation:<h4>
+</h5>Used a compact router tool to cut up large rolls of plastic mats into sheets.
+Operated the Computer Numerical Control (CNC) cutting machine, including taking inventory from stock, inputting customer orders, monitoring the cutting process, handling the beveling of cut mats, and preparing mats for packaging after cutting.</h5>
+
+
+<h4>Quality Assurance and Control:<h4>
+</h5>Ensured accuracy and quality of cut mats by observing and checking for defects or issues in the products.
+Troubleshooted defective mats by recutting mats into different inventory stocks and sizes.
+Product Preparation and Packaging:
+Rolled chair mats and boxed them with staples.
+Added shipping labels for UPS mailing packages.</h5>
+
+
+<h4>Customer Service:<h4>
+</h5>Interacted with customers by providing guidance regarding their work orders.</h5>
+
+
+
+
+ <h4>Safety Compliance:<h4>
+</h5>Adhered to company safety protocols and guidelines while operating machinery in a safe manner to avoid any potential incidents/near misses.
+Maintained a clean and organized work environment to prevent accidents.</h5>
+</main>
+
+
+<section> <h1>Professional Development</h1>
+
+
+
+
+<h4>Bachelor of Science in Computer Engineering, University of Texas at San Antonio<h4></h4>	
+
+
+<h4>Educational Courses and Training:<h4>
+</h5> <p>Intro to Electrical and Computer Engineering.
+</p>Enrolled for Onshape drafting courses</p> 
+</p>Kano computer training kit.</p>
+</p>Udemy Online training for software coding.</p></h5>
+
+
+</section>
+
+
+
+
+style.css
+
+
+
+
+
