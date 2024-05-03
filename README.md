@@ -1,7 +1,7 @@
 <header>
     <h1>Zain Jafri</h1>
     <p>(832)-871-1859 | syedmjafri.zain@gmail.com | Magnolia, TX</p>
-    <p>Objective: I am dedicated to applying theoretical knowledge and practical skills in a technical position with a passion and focus in computer programming. Committed to learning, contributing, and prioritizing performance and reliability in every task.</p>
+    <p>Objective: I am dedicated to applying theoretical knowledge and practical skills in a technical position with a passion and focus on computer programming. Committed to learning, contributing, and prioritizing performance and reliability in every task.</p>
   </header>
 
 
@@ -36,7 +36,7 @@ Maintained a clean and organized work environment to prevent accidents.</h5>
 <section> <h1>Professional Development</h1>
 
 
-Bachelor of Science in Computer Engineering, University of Texas at San Antonio 	
+<h4>Bachelor of Science in Computer Engineering, University of Texas at San Antonio<h4></h4>	
 
 <h4>Educational Courses and Training:<h4>
 </h5>Enrolled for Onshape drafting courses 
