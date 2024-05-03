@@ -40,7 +40,7 @@ Added shipping labels for UPS mailing packages.</h5>
 Maintained a clean and organized work environment to prevent accidents.</h5>
 </main>
 
-<section> <h4>Professional Development</h4>
+<section> <h1>Professional Development</h1>
 
 
 Bachelor of Science in Computer Engineering, University of Texas at San Antonio 	
