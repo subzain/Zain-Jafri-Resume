@@ -15,8 +15,8 @@ li {
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #f8f9fa;
-  color: #333;
+  background-color: #f5f5f5; /* Light gray background */
+  color: #333; /* Dark gray text */
   line-height: 1.6;
 }
 
@@ -27,8 +27,8 @@ body {
 }
 
 header {
-  background-color: #007bff;
-  color: #fff;
+  background-color: #2980b9; /* Teal blue background */
+  color: #fff; /* White text */
   padding: 40px 0;
   text-align: center;
 }
@@ -36,15 +36,18 @@ header {
 header h1 {
   font-size: 2.5em;
   margin-bottom: 10px;
+  color: #fff; /* White for better contrast */
 }
 
 header p {
   font-size: 1.1em;
   margin-bottom: 20px;
+  color: #e0e0e0; /* Light gray for subtle details */
 }
 
 .objective {
   font-style: italic;
+  color: #666; /* Lighter gray for less emphasis */
 }
 
 main {
@@ -53,36 +56,39 @@ main {
 
 h2 {
   margin-bottom: 20px;
+  color: #2980b9; /* Teal blue for titles */
 }
 
 section {
   margin-bottom: 40px;
-  transition: opacity 0.3s ease-in-out; /* Added transition for hover effect */
+  transition: opacity 0.3s ease-in-out, background-color 0.3s ease-in-out; /* Combined transitions */
 }
 
 section:hover {
-  opacity: 0.8; /* Slight opacity reduction on hover */
+  opacity: 0.9; /* Slight opacity increase on hover */
+  background-color: #eee; /* Lighter gray background on hover */
 }
 
 h2:hover,
 h3:hover {
-  color: #007bff; /* Change to your desired highlight color */
-  transition: color 0.2s ease-in-out; /* Added transition for hover effect */
+  color: #1abc9c; /* Lighter teal blue for hover highlight */
+  transition: color 0.2s ease-in-out; /* Maintains smooth transition */
 }
 
 footer {
-  background-color: #343a40;
-  color: #fff;
+  background-color: #343a40; /* Dark gray background */
+  color: #fff; /* White text */
   padding: 20px 0;
   text-align: center;
 }
 
 footer p {
   font-size: 0.9em;
+  color: #e0e0e0; /* Light gray for subtle details */
 }
 
 /* Added styles for active section highlight (section:target) */
 section:target {
-  background-color: #f2f2f2; /* Change to your desired background color */
+  background-color: #d7e8f0; /* Lighter blue background for active section */
   transition: background-color 0.3s ease-in-out;
 }
