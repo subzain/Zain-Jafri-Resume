@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+/* Reset default browser styles  */
 body,
 h1,
 h2,
@@ -45,7 +45,6 @@ header p {
 
 .objective {
   font-style: italic;
-  color: #fff; /* White color for the objective text */
 }
 
 main {
